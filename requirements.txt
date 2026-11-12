@@ -1,5 +1,5 @@
 flask>=3.0
-gunicorn.
+gunicorn
 pandas>=2.0
 numpy>=1.26
 scikit-learn>=1.4
